@@ -55,8 +55,8 @@ Coma         | Has no updates & no replacement
 Nearly Dead  | Not installable & has replacement
 Dead         | Broken & not going to get fixed
 -->
-Thing                                | Life                   | State        | Notes
------------------------------------- | ---------------------- | ------------ |
+Thing                                | Life                   | State        | Notes 
+------------------------------------ | ---------------------- | ------------ | ------
 Help the Help Desk                   | 2004 - 2020 (16 years) | Dead         |
 Enterprise Release Management        | 2017 - 2020 (4 years)  | Dead         |
 Facilities Service Management        | 2008 - 2020 (12 years) | Dead         |
