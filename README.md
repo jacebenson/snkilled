@@ -31,17 +31,13 @@ If you feel that you can fix or implement it yourself, please read a few paragra
 - Comment on the issue so others know you are working on the issue.
 - Fork the project
 - Create Branch `something-descriptive`
-- Update/Create the Feature and it’s state of decay
+- Update/Create the Feature and it’s state of decay (today they are all in /content/home/killed.md)
 - Commit your changes
 - Create a Pull Request
 
 ## Acknowledgments
 
 SNKilled was inspired by https://killedbygoogle.com/
-
-## See Also
-
-- 
 
 ## License
 
