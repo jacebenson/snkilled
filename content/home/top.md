@@ -34,8 +34,8 @@ hero_media = "cemetery-51550_640.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#contribute"
-  label = "Contribute"
+  url = "https://github.com/jacebenson/snkilled/issues/new?assignees=&labels=&template=add-new-item-to-sn-killed.md&title="
+  label = "Suggest an addition"
   icon_pack = "fas"
   icon = "person"
   
@@ -44,8 +44,8 @@ hero_media = "cemetery-51550_640.jpg"
 #  label = "Learn more"
 
 # Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
+[cta_note]
+ label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
 +++
 
 **Showing features in their state of decay**
