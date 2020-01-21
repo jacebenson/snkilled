@@ -1,0 +1,19 @@
+{
+  "name": "snkilled",
+  "version": "1.0.0",
+  "description": "USAGE: common-readme [-r|--repo REPO-NAME] [-l|--license LICENSE]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacebenson/snkilled.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacebenson/snkilled/issues"
+  },
+  "homepage": "https://github.com/jacebenson/snkilled#readme"
+}

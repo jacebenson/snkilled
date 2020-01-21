@@ -1,42 +1,50 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# ServiceNow Killed aka SNKilled
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+Showing features in their state of decay
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## What is this?
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+This is a list to simply see on a feature by feature basis what is and is not “current” in ServiceNow.
+Why?
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+- I can’t remember this stuff
+- It’s easier to search a list than it is to ask me or find it in the docs
 
-## Install
+### Can you elaborate on that?
 
-You can choose from one of the following four methods to install:
+Sure. ServiceNow has a lot of offerings. Over time the offerings change and sometimes merge/split/replace eachother. They have to keep the old things because making a customer move off of some old tech is not a good thing to tell someone. However, that leaves it up to the admins and developers to somehow know what is current. The purpose of this is just to track the things and their last update or if they have been replaced by some other feature. Some simple examples. Execution Plans(sometimes called deliever plans) were used for a long time. However Workflow was added in 2009. You can still use workflow today. Flow designer was introduced in 2017, it does things workflow did. Should you still use workflow? Well you can. But new development is happening in Flow designer.
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+## Contributing
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+First of all, thanks for thinking of contributing to this project. You’re Awesome! 😍
 
-## Ecosystem
+We welcome contributions to SNKilled by everyone.
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
+### How to report a problem
+
+Please search [issue tracker] before creating a new issue (problem or an improvement request). Feel Free to add issues related to the project.
+
+If you feel that you can fix or implement it yourself, please read a few paragraphs below to learn how to submit your changes.
+
+### Submitting Changes
+
+- Comment on the issue so others know you are working on the issue.
+- Fork the project
+- Create Branch `something-descriptive`
+- Update/Create the Feature and it’s state of decay
+- Commit your changes
+- Create a Pull Request
+
+## Acknowledgments
+
+SNKilled was inspired by https://killedbygoogle.com/
+
+## See Also
+
+- 
 
 ## License
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+ISC
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[issue tracker]: https://github.com/jacebenson/snkilled/issues
