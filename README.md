@@ -14,6 +14,15 @@ Why?
 
 Sure. ServiceNow has a lot of offerings. Over time the offerings change and sometimes merge/split/replace eachother. They have to keep the old things because making a customer move off of some old tech is not a good thing to tell someone. However, that leaves it up to the admins and developers to somehow know what is current. The purpose of this is just to track the things and their last update or if they have been replaced by some other feature. Some simple examples. Execution Plans(sometimes called deliever plans) were used for a long time. However Workflow was added in 2009. You can still use workflow today. Flow designer was introduced in 2017, it does things workflow did. Should you still use workflow? Well you can. But new development is happening in Flow designer.
 
+## What are these states?
+
+State        | Descriptipn
+------------ | -----------
+Life Support | Has no updates & has replacement
+Coma         | Has no updates & no replacement
+Nearly Dead  | Not installable & has replacement
+Dead         | Broken & not going to get fixed
+
 ## Contributing
 
 First of all, thanks for thinking of contributing to this project. You’re Awesome! 😍

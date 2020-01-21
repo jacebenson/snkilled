@@ -47,16 +47,24 @@ subtitle = ""
  css_class = ""
 +++
 
-Thing | Life | Details
------ | ---- | -------
-Help the Help Desk                   | 2004 - 2020 (16 years) | In the "Orlando" release this is no longer available
-Enterprise Release Management        | 2017 - 2020 (4 years)  | In the "Orlando" release this is no longer available
-Facilities Service Management        | 2008 - 2020 (12 years) | In the "Orlando" release this is no longer available
-Workflow                             | 2008 - 2017 (9 years)  | In the "Kingston" release this was made redundant, and is in a "Support" only mode. Replaced by Flow Designer.
-Cms                                  | 2009 - 2016 (7 years)  | In the "Orlando" release you must now contact HI to enable this.  In the "Helsinki" release this was made redundant, and is in a "Support" only mode.  Replaced by Service Portal.
-Homepages                            | 2004 - 2013 (9 years)  | In the "Dublin" release Performance analytics introduced Dashboard.  Replaced by Dashboard.
-IT SAM                               | 2007 - 2018 (9 years)  | In the "London" release Software Asset Management became it's own product.  ServiceNow no longer updates IT Software Asset Management.  https://docs.servicenow.com/bundle/newyork-it-service-management/page/product/asset-management/concept/itsm-sam.html
-Listv3                               | 2016 - 2018 (2 years)  | In the "London" release, this became no longer available.
-JSON                                 | 2004 - 2013 (9 years)  | Replaced by JSONv2
-JSONv2                               | 2013 - 2015 (2 years)  | In a "Support" only mode. Replaced by the Table API.
-Orchestration - Node Based Licensing | 2010 - 2018 (8 years)  | Replaced with Orchestration - Transaction Based Licensing which 'charges' for each transaction that is orchestrated.
+<!--
+State        | Descriptipn
+------------ | -----------
+Life Support | Has no updates & has replacement
+Coma         | Has no updates & no replacement
+Nearly Dead  | Not installable & has replacement
+Dead         | Broken & not going to get fixed
+-->
+Thing                                | Life                   | Details
+------------------------------------ | ---------------------- | -------
+Help the Help Desk                   | 2004 - 2020 (16 years) | Dead
+Enterprise Release Management        | 2017 - 2020 (4 years)  | Dead
+Facilities Service Management        | 2008 - 2020 (12 years) | Dead
+Workflow                             | 2008 - 2017 (9 years)  | Life Support
+Cms                                  | 2009 - 2016 (7 years)  | Dead
+Homepages                            | 2004 - 2013 (9 years)  | Life Support
+IT SAM                               | 2007 - 2018 (9 years)  | Dead
+Listv3                               | 2016 - 2018 (2 years)  | Dead
+JSON                                 | 2004 - 2013 (9 years)  | Dead
+JSONv2                               | 2013 - 2015 (2 years)  | Coma
+Orchestration - Node Based Licensing | 2010 - 2018 (8 years)  | Dead

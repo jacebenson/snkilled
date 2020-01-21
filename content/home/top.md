@@ -52,3 +52,11 @@ hero_media = "cemetery-51550_640.jpg"
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
+## What are these states?
+
+State        | Descriptipn
+------------ | -----------
+Life Support | Has no updates & has replacement
+Coma         | Has no updates & no replacement
+Nearly Dead  | Not installable & has replacement
+Dead         | Broken & not going to get fixed
