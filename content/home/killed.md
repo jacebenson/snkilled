@@ -55,16 +55,19 @@ Coma         | Has no updates & no replacement
 Nearly Dead  | Not installable & has replacement
 Dead         | Broken & not going to get fixed
 -->
-Thing                                | Life                   | Details
------------------------------------- | ---------------------- | -------
-Help the Help Desk                   | 2004 - 2020 (16 years) | Dead
-Enterprise Release Management        | 2017 - 2020 (4 years)  | Dead
-Facilities Service Management        | 2008 - 2020 (12 years) | Dead
-Workflow                             | 2008 - 2017 (9 years)  | Life Support
-Cms                                  | 2009 - 2016 (7 years)  | Dead
-Homepages                            | 2004 - 2013 (9 years)  | Life Support
-IT SAM                               | 2007 - 2018 (9 years)  | Dead
-Listv3                               | 2016 - 2018 (2 years)  | Dead
-JSON                                 | 2004 - 2013 (9 years)  | Dead
-JSONv2                               | 2013 - 2015 (2 years)  | Coma
-Orchestration - Node Based Licensing | 2010 - 2018 (8 years)  | Dead
+Thing                                | Life                   | State        | Notes
+------------------------------------ | ---------------------- | ------------ |
+Help the Help Desk                   | 2004 - 2020 (16 years) | Dead         |
+Enterprise Release Management        | 2017 - 2020 (4 years)  | Dead         |
+Facilities Service Management        | 2008 - 2020 (12 years) | Dead         |
+Workflow                             | 2008 - 2017 (9 years)  | Life Support |
+Cms                                  | 2009 - 2016 (7 years)  | Dead         |
+Homepages                            | 2004 - 2013 (9 years)  | Life Support |
+IT SAM                               | 2007 - 2018 (9 years)  | Dead         |
+Listv3                               | 2016 - 2018 (2 years)  | Dead         |
+JSON                                 | 2004 - 2013 (9 years)  | Dead         |
+JSONv2                               | 2013 - 2015 (2 years)  | Coma         |
+Orchestration - Node Based Licensing | 2010 - 2018 (8 years)  | Dead         |
+[Processors]                         | 2004 - 2018 (14 year)  | Life Support | While legacy, custom processors will continue to be supported, creating new custom processors has been deprecated. Instead, please use the Scripted REST APIs.
+
+[Processors]: https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html
