@@ -51,3 +51,9 @@ hero_media = "cemetery-51550_640.jpg"
 **Showing features in their state of decay**
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+Thing | Life | Details
+----- | ---- | -------
+Help the Help Desk            | 2004 - 2020 (16 years) | In the "Orlando" release this is no longer available
+Enterprise Release Management | 2017 - 2020 (4 years)  | In the "Orlando" release this is no longer available
+Facilities Service Management | 2008 - 2020 (12 years) | In the "Orlando" release this is no longer available
