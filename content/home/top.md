@@ -34,34 +34,21 @@ hero_media = "cemetery-51550_640.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#install"
-  label = "Install"
+  url = "#contribute"
+  label = "Contribute"
   icon_pack = "fas"
-  icon = "download"
+  icon = "person"
   
 #[cta_alt]
 #  url = "#learn-more"
 #  label = "Learn more"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
+# [cta_note]
+#  label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
 +++
 
 **Showing features in their state of decay**
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-
-Thing | Life | Details
------ | ---- | -------
-Help the Help Desk            | 2004 - 2020 (16 years) | In the "Orlando" release this is no longer available
-Enterprise Release Management | 2017 - 2020 (4 years)  | In the "Orlando" release this is no longer available
-Facilities Service Management | 2008 - 2020 (12 years) | In the "Orlando" release this is no longer available
-Workflow                      | 2008 - 2017 (9 years)  | In the "Kingston" release this was made redundant, and is in a "Support" only mode. Replaced by Flow Designer.
-Cms                           | 2009 - 2016 (7 years)  | In the "Orlando" release you must now contact HI to enable this.  In the "Helsinki" release this was made redundant, and is in a "Support" only mode.  Replaced by Service Portal.
-Homepages                     | 2004 - 2013 (9 years)  | In the "Dublin" release Performance analytics introduced Dashboard.  Replaced by Dashboard.
-IT SAM                        | 2007 - 2018 (9 years)  | In the "London" release Software Asset Management became it's own product.  ServiceNow no longer updates IT Software Asset Management.  https://docs.servicenow.com/bundle/newyork-it-service-management/page/product/asset-management/concept/itsm-sam.html
-Listv3                        | 2016 - 2018 (2 years)  | In the "London" release, this became no longer available.
-JSON                          | 2004 - 2013 (9 years)  | Replaced by JSONv2
-JSONv2                        | 2013 - 2015 (2 years)  | In a "Support" only mode. Replaced by the Table API.
 
