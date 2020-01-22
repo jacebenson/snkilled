@@ -72,7 +72,9 @@ Orchestration - Node Based Licensing | 2010 | 2018 | Dead         |
 [Processors]                         | 2004 | 2018 | Life Support | While legacy, custom processors will continue to be supported, creating new custom processors has been deprecated. Instead, please use the Scripted REST APIs.
 [Application Creator]                | 2015 | 2019 | Dead         | There is no migration path from the legacy application creator to Guided Application Creator. You can add a property to force legacy application creator to open instead of Guided Application Creator. For more information, see [Activate the legacy application creator]. 
 [Execution Plans]                    | 2002 | 2008 | Life Support | This is really a legacy feature that is still around and I'm sure some people use it, but I can't imagine it has any support.  Was replaced with Workflow, and then again with Flow Designer.
+[GS SQL]                             | 2002 | 2015 | Dead         | When truncating table, gs.sql orphans records and causes data corruption. That is the main reason it was dangerous.
 
+[GS SQL]: https://www.servicenowelite.com/blog/2014/2/1/glidesystem-sql
 [Execution Plans]: https://docs.servicenow.com/bundle/madrid-it-service-management/page/product/service-catalog-management/concept/c_ExecutionPlans.html
 [Processors]: https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html
 [Application Creator]: https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/c_ApplicationCreationOptions.html
