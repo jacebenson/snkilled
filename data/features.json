@@ -101,7 +101,7 @@
     {
       "name": "Orchestration - Node Based Licensing",
       "created": 2010,
-      "last_updated": "",
+      "last_updated": 2018,
       "depreciated": 2018,
       "state": "Dead",
       "notes": "Replaced with Transactional Based Licensing",

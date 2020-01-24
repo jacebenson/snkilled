@@ -45,6 +45,6 @@ title = "ServiceNow Killed"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
- label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
+ #label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
 +++
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

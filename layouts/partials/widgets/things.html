@@ -56,7 +56,7 @@
         <td>{{ . }}</td>
       {{ end }}
     </thead>
-    {{ range $features.things }}
+    {{ range sort $features.things "last_updated"}}
     <tr>
       <td>
         {{ if .url }}
