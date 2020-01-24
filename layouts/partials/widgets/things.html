@@ -58,6 +58,7 @@
     </thead>
     {{ range sort $features.things "last_updated"}}
     <tr>
+      <td>{{ .category }}</td>
       <td>
         {{ if .url }}
         <a class="text-light" href=" {{ .url }} ">

@@ -1,5 +1,6 @@
 {
   "columns": [
+    "Category",
     "Name",
     "Created",
     "Updated",
@@ -9,6 +10,7 @@
   ],
   "things": [
     { "name": "Help the Help Desk",
+      "category":"ITOM",
       "created": 2004,
       "last_updated": 2004,
       "depreciated": 2020,
@@ -17,6 +19,7 @@
       "url": ""
     },
     { "name": "Enterprise Release Management",
+      "category":"ITBM",
       "created": 2017,
       "last_updated": 2017,
       "depreciated": 2020,
@@ -25,6 +28,7 @@
       "url": ""
     },
     { "name": "Facilities Service Management",
+      "category": "Service Management",
       "created": 2008,
       "last_updated": 2008,
       "depreciated": 2020,
@@ -33,6 +37,7 @@
       "url": ""
     },
     { "name": "Workflow",
+      "category": "Now Platform",
       "created": 2008,
       "last_updated": 2017,
       "depreciated": "",
@@ -73,6 +78,7 @@
       "url": ""
     },
     { "name": "JSON Processor",
+      "category": "APIs and Scripts",
       "created": 2004,
       "last_updated": 2013,
       "depreciated": 2013,
@@ -81,6 +87,7 @@
       "url": ""
     },
     { "name": "JSONv2 Processor",
+      "category": "APIs and Scripts",
       "created": 2013,
       "last_updated": 2015,
       "depreciated": "",
@@ -97,6 +104,7 @@
       "url": ""
     },
     { "name": "Processors",
+      "category": "APIs and Scripts",
       "created": 2004,
       "last_updated": 2018,
       "depreciated": "",
@@ -105,6 +113,7 @@
       "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html"
     },
     { "name": "Application Creator",
+      "category": "Application Tools",
       "created": 2015,
       "last_updated": 2019,
       "depreciated": "",
@@ -113,6 +122,7 @@
       "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/c_ApplicationCreationOptions.html"
     },
     { "name": "Execution Plans",
+      "category": "Now Platform",
       "created": 2002,
       "last_updated": 2008,
       "state": "Replaced",
@@ -128,6 +138,7 @@
       "url": "https://www.servicenowelite.com/blog/2014/2/1/glidesystem-sql"
     },
     { "name": "Incident Management",
+      "category": "IT Service Management",
       "created": 2002,
       "last_updated": 2020,
       "depreciated":"",
@@ -136,6 +147,7 @@
       "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/incident-management-rn.html"
     },
     { "name": "Change Management",
+      "category": "IT Service Management",
       "created": 2002,
       "last_updated": 2020,
       "depreciated":"",
@@ -144,6 +156,7 @@
       "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/change-management-rn.html"
     },
     { "name": "Coaching",
+      "category": "IT Service Management",
       "created": 2002,
       "last_updated": 2020,
       "depreciated":"",
@@ -152,6 +165,7 @@
       "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/coaching-rn.html"
     },
     { "name": "Continual Improvement Management",
+      "category": "IT Service Management",
       "created": 2018,
       "last_updated": 2020,
       "depreciated":"",
@@ -160,6 +174,7 @@
       "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/continual-improvement-management-rn.html"
     },
     { "name": "Agent Workspace",
+      "category": "Now Platform",
       "created": 2019,
       "last_updated": 2020,
       "depreciated":"",
@@ -168,6 +183,7 @@
       "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/agent-workspace-rn.html"
     },
     { "name": "Advanced Work Assignment",
+      "category": "Now Platform",
       "created": 2019,
       "last_updated": 2020,
       "depreciated":"",
