@@ -1,0 +1,146 @@
+{
+  "columns": [
+    "Name",
+    "Created",
+    "Updated",
+    "Depreciated",
+    "State",
+    "Notes"
+  ],
+  "things": [
+    {
+      "name": "Help the Help Desk",
+      "created": 2004,
+      "last_updated": 2004,
+      "depreciated": 2020,
+      "state": "Dead",
+      "notes": "Use Discovery instead",
+      "url": ""
+    },
+    {
+      "name": "Enterprise Release Management",
+      "created": 2017,
+      "last_updated": 2017,
+      "depreciated": 2020,
+      "state": "Dead",
+      "notes": "",
+      "url": ""
+    },
+    {
+      "name": "Facilities Service Management",
+      "created": 2008,
+      "last_updated": 2008,
+      "depreciated": 2020,
+      "state": "Dead",
+      "notes": "",
+      "url": ""
+    },
+    {
+      "name": "Workflow",
+      "created": 2008,
+      "last_updated": 2017,
+      "depreciated": "",
+      "state": "Replaced",
+      "notes": "Replaced with Flow Designer",
+      "url": ""
+    },
+    {
+      "name": "Content Management System (CMS)",
+      "created": 2009,
+      "last_updated": 2017,
+      "depreciated": 2016,
+      "state": "Dead",
+      "notes": "Replaced with Service Portal",
+      "url": ""
+    },
+    {
+      "name": "Homepages",
+      "created": 2004,
+      "last_updated": 2013,
+      "depreciated": "",
+      "state": "Replaced",
+      "notes": "Replaced with Dashboards",
+      "url": ""
+    },
+    {
+      "name": "IT Software Asset Management",
+      "created": 2007,
+      "last_updated": 2018,
+      "depreciated": 2018,
+      "state": "Dead",
+      "notes": "Replaced with Software Asset Management",
+      "url": ""
+    },
+    {
+      "name": "ListV3",
+      "created": 2016,
+      "last_updated": 2018,
+      "depreciated": 2018,
+      "state": "Dead",
+      "notes": "Not supported, use ListV2 instead.",
+      "url": ""
+    },
+    {
+      "name": "JSON Processor",
+      "created": 2004,
+      "last_updated": 2013,
+      "depreciated": 2013,
+      "state": "Dead",
+      "notes": "Replaced with JSONv2 Processor",
+      "url": ""
+    },
+    {
+      "name": "JSONv2 Processor",
+      "created": 2013,
+      "last_updated": 2015,
+      "depreciated": "",
+      "state": "Replaced",
+      "notes": "Replaced with Table API",
+      "url": ""
+    },
+    {
+      "name": "Orchestration - Node Based Licensing",
+      "created": 2010,
+      "last_updated": "",
+      "depreciated": 2018,
+      "state": "Dead",
+      "notes": "Replaced with Transactional Based Licensing",
+      "url": ""
+    },
+    {
+      "name": "Processors",
+      "created": 2004,
+      "last_updated": 2018,
+      "depreciated": "",
+      "state": "Replaced",
+      "notes": "Replaced with Scripted REST APIs",
+      "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html"
+    },
+    {
+      "name": "Application Creator",
+      "created": 2015,
+      "last_updated": 2019,
+      "depreciated": "",
+      "state": "Replaced",
+      "notes": "Replaced with Guided Application Creator",
+      "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/c_ApplicationCreationOptions.html"
+    },
+    {
+      "name": "Execution Plans",
+      "created": 2002,
+      "last_updated": 2008,
+      "state": "Replaced",
+      "notes": "Replaced with Workflow, and then again with Flow Designer",
+      "url": "https://docs.servicenow.com/bundle/madrid-it-service-management/page/product/service-catalog-management/concept/c_ExecutionPlans.html"
+    },
+    {
+      "name": "gs.sql()",
+      "created": 2002,
+      "last_updated": 2015,
+      "depreciated": 2015,
+      "state": "Dead",
+      "notes": "Access to this was removed.",
+      "url": "https://www.servicenowelite.com/blog/2014/2/1/glidesystem-sql"
+    }
+  ]
+}

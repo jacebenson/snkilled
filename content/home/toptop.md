@@ -1,14 +1,14 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+widget = "things"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
 title = "ServiceNow Killed"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "cemetery-51550_640.jpg"
+#hero_media = "cemetery-51550_640.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,16 +47,4 @@ hero_media = "cemetery-51550_640.jpg"
 [cta_note]
  label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
 +++
-
-**Showing features in their state of decay**
-
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-
-## What are these states?
-
-State        | Descriptipn
------------- | -----------
-Life Support | Has no updates & has replacement
-Coma         | Has no updates & no replacement
-Nearly Dead  | Not installable & has replacement
-Dead         | Broken & not going to get fixed
