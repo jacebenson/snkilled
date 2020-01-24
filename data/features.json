@@ -45,7 +45,17 @@
       "notes": "Replaced with Flow Designer",
       "url": ""
     },
+    { "name": "ListV2",
+      "category": "Now Platform",
+      "created": 2010,
+      "last_updated": 2010,
+      "depreciated": "",
+      "state": "Current",
+      "notes": "",
+      "url": ""
+    },
     { "name": "Content Management System (CMS)",
+      "category": "Now Platform",
       "created": 2009,
       "last_updated": 2017,
       "depreciated": 2016,
@@ -54,6 +64,7 @@
       "url": ""
     },
     { "name": "Homepages",
+      "category": "Now Platform",
       "created": 2004,
       "last_updated": 2013,
       "depreciated": "",
@@ -62,6 +73,7 @@
       "url": ""
     },
     { "name": "IT Software Asset Management",
+      "category": "IT Service Management",
       "created": 2007,
       "last_updated": 2018,
       "depreciated": 2018,
@@ -70,6 +82,7 @@
       "url": ""
     },
     { "name": "ListV3",
+      "category": "Now Platform",
       "created": 2016,
       "last_updated": 2018,
       "depreciated": 2018,
@@ -77,6 +90,34 @@
       "notes": "Not supported, use ListV2 instead.",
       "url": ""
     },
+    { "name": "UI11",
+      "category": "Now Platform",
+      "created": 2011,
+      "last_updated": 2015,
+      "depreciated": 2015,
+      "state": "Dead",
+      "notes": "Not supported, use UI16 instead.",
+      "url": ""
+    },
+    { "name": "UI15",
+      "category": "Now Platform",
+      "created": 2015,
+      "last_updated": 2016,
+      "depreciated": 2016,
+      "state": "Dead",
+      "notes": "Not supported, use UI16 instead.",
+      "url": ""
+    },
+    { "name": "UI16",
+      "category": "Now Platform",
+      "created": 2016,
+      "last_updated": 2016,
+      "depreciated": "",
+      "state": "Current",
+      "notes": "",
+      "url": ""
+    },
+    
     { "name": "JSON Processor",
       "category": "APIs and Scripts",
       "created": 2004,

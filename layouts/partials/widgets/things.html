@@ -56,7 +56,7 @@
         <td>{{ . }}</td>
       {{ end }}
     </thead>
-    {{ range sort $features.things "last_updated"}}
+    {{ range sort $features.things "category" "created" }}
     <tr>
       <td>{{ .category }}</td>
       <td>
