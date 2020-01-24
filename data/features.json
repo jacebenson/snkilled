@@ -141,6 +141,142 @@
       "state": "Dead",
       "notes": "Access to this was removed.",
       "url": "https://www.servicenowelite.com/blog/2014/2/1/glidesystem-sql"
+    },
+    {
+      "name": "Incident Management",
+      "created": 2002,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, updates around Agent Affinity",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/incident-management-rn.html"
+    },
+    {
+      "name": "Change Management",
+      "created": 2002,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, updates around Change approval policy, and conflict properties",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/change-management-rn.html"
+    },
+    {
+      "name": "Coaching",
+      "created": 2002,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, was only renamed in this release to 'Trainings'",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/coaching-rn.html"
+    },
+    {
+      "name": "Continual Improvement Management",
+      "created": 2018,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, integrated with 'Incident Workspace' and 'Problems Workspace'",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/continual-improvement-management-rn.html"
+    },
+    {
+      "name": "Agent Workspace",
+      "created": 2019,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/agent-workspace-rn.html"
+    },
+    {
+      "name": "Advanced Work Assignment",
+      "created": 2019,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/advanced-work-assignment-rn.html"
+    },
+    {
+      "category": "Analytics, Intelligence, and Reporting",
+      "name": "Virtual Agent",
+      "created": 2019,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/virtual-agent-rn.html"
+    },
+    {
+      "category": "Analytics, Intelligence, and Reporting",
+      "name": "Performance Analytics",
+      "created": 2013,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/par-performance-analytics-rn.html"
+    },
+    {
+      "category": "Analytics, Intelligence, and Reporting",
+      "name": "Natural Language Understanding",
+      "created": 2019,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/natural-language-understanding-rn.html"
+    },
+    {
+      "category": "Analytics, Intelligence, and Reporting",
+      "name": "Predictive Intelligence",
+      "created": 2019,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/predictive-intelligence-rn.html"
+    },
+    {
+      "category": "Analytics, Intelligence, and Reporting",
+      "name": "Reporting",
+      "created": 2002,
+      "last_updated": 2019,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, this isn't really an update.",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/par-reporting-rn.html"
+    },
+    
+    {
+      "category": "Customer Service Management",
+      "name": "Customer Service Management",
+      "created": 2016,
+      "last_updated": 2019,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, case types, proactive service operations, service aware install bases",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/customer-service-management-rn.html"
+    },
+    {
+      "category": "Customer Service Management",
+      "name": "Communities",
+      "created": 2017,
+      "last_updated": 2019,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando.  Scheduling stuff, disabling comments, and improved search.",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/communities-rn.html"
+    },
+    {
+      "category": "Customer Service Management",
+      "name": "Field Service Management",
+      "created": 2010,
+      "last_updated": 2020,
+      "depreciated":"",
+      "state":"Current",
+      "notes":"Last updated in Orlando, Task rejection reason, default timezone for appointments, and scheduling stuff",
+      "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/field-service-management-rn.html"
     }
+    
   ]
 }
