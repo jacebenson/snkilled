@@ -9,11 +9,12 @@ assignees: ''
 
 Question                                                  | Answer 
 --------------------------------------- | -------
-What is being killed                                 | InsertTitleHere
+What is it                                                 | InsertTitleHere
 When was it first added to ServiceNow  | YearOrRelease
-**When** was it removed, or replaced   | YearOrRelease
+When was it last updated                        | YearOrRelease
+When was it depreciated                         | YearOrRelease
 If it was replaced, with what                    | InsertTitleHere
-Proposed State                                        | LifeSupportComaNearlyDeadDead
+Proposed State                                        | DeadReplacedCurrent
 
 ## Any Additional Comments
 
