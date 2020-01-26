@@ -56,7 +56,7 @@
         <td>{{ . }}</td>
       {{ end }}
     </thead>
-    {{ range sort $features.things "itemOrder" "asc"}}
+    {{ range $features.things }}
     <tr>
       <td>{{ .category }}</td>
       <td>
