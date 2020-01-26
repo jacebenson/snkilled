@@ -120,6 +120,86 @@
         "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/c_ApplicationCreationOptions.html"
       },
       {
+        "name": "Guided Application Creator",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Studio",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Creator",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Team Development",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "System Update Sets",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Automated Test Framework",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "ServiceNow Application repository",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "ServiceNow Extension for VS Code",
+        "category": "Application Tools",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
         "name": "Communities",
         "category": "Customer Service Management",
         "created": 2017,
@@ -300,6 +380,26 @@
         "url": ""
       },
       {
+        "name": "Service Mapping",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Discovery",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
         "name": "Help the Help Desk",
         "category": "ITOM",
         "created": 2004,
@@ -307,6 +407,96 @@
         "depreciated": 2020,
         "state": "Dead",
         "notes": "Use Discovery instead",
+        "url": ""
+      },
+      {
+        "name": "Event Management",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Operational Intelligence",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Cloud Management",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Cloud Optimization: Cloud Insights",
+        "category": "ITOM",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Asset Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Contract Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Procurement",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Product Catalog",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Benchmarks",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
         "url": ""
       },
       {
@@ -320,16 +510,6 @@
         "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/change-management-rn.html"
       },
       {
-        "name": "Continual Improvement Management",
-        "category": "IT Service Management",
-        "created": 2018,
-        "last_updated": 2020,
-        "depreciated": "",
-        "state": "Current",
-        "notes": "Last updated in Orlando, integrated with 'Incident Workspace' and 'Problems Workspace'",
-        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/continual-improvement-management-rn.html"
-      },
-      {
         "name": "Coaching",
         "category": "IT Service Management",
         "created": 2002,
@@ -340,6 +520,66 @@
         "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/coaching-rn.html"
       },
       {
+        "name": "Continual Improvement Management",
+        "category": "IT Service Management",
+        "created": 2018,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, integrated with 'Incident Workspace' and 'Problems Workspace'",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/continual-improvement-management-rn.html"
+      },
+      {
+        "name": "Expense Line",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "ITSM Virtual Agent",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Walk-up Experience",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "ITSM Agent Workspace",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Incident Communications Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
         "name": "Incident Management",
         "category": "IT Service Management",
         "created": 2002,
@@ -348,6 +588,116 @@
         "state": "Current",
         "notes": "Last updated in Orlando, updates around Agent Affinity",
         "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/incident-management-rn.html"
+      },
+      {
+        "name": "On-call scheduling",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Problem Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Release Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Request Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Catalog",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Desk",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Portfolio Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Level Management",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Task Outage",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Vendor Manager Workspace",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Vendor Performance",
+        "category": "IT Service Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
       },
       {
         "name": "IT Software Asset Management",
@@ -380,6 +730,56 @@
         "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/advanced-work-assignment-rn.html"
       },
       {
+        "name": "Configuration Management Database",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Dependency Views",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Compliance",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Data Certification",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Connect",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
         "name": "Content Management System (CMS)",
         "category": "Now Platform",
         "created": 2009,
@@ -387,6 +787,46 @@
         "depreciated": 2016,
         "state": "Dead",
         "notes": "Replaced with Service Portal",
+        "url": ""
+      },
+      {
+        "name": "Connections and Credentials",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Decision Tables",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "E-signature",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Edge Encryption",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
         "url": ""
       },
       {
@@ -406,6 +846,316 @@
         "depreciated": "",
         "state": "Replaced",
         "notes": "Replaced with Flow Designer",
+        "url": ""
+      },
+      {
+        "name": "Flow Designer",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Instance Data Replication",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "IntegrationHub",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Interaction Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Knowledge Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Legacy Chat",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "Dead",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Legacy Notify",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "Dead",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Live Feed",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Managed Documents",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "MetricBase",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "MID Server",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Notifications",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Notify",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Orchestration",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Password Reset",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Remote Tables",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Response Templates",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Delegates",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Assessments",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Approvals",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Geolocation",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "State flows",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Survey Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Quizzes",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Wizards",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Portal",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Service Portal: Announcements",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Skills Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Subscription Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Survey Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Task Communication Management",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
         "url": ""
       },
       {
@@ -436,6 +1186,16 @@
         "depreciated": 2018,
         "state": "Dead",
         "notes": "Not supported, use ListV2 instead.",
+        "url": ""
+      },
+      {
+        "name": "Visual Task Boards",
+        "category": "Now Platform",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
         "url": ""
       },
       {
@@ -475,6 +1235,56 @@
         "last_updated": 2016,
         "depreciated": "",
         "state": "Current",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Security Incident Response",
+        "category": "Security Operations",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Vulnerability Response",
+        "category": "Security Operations",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Configuration Compliance",
+        "category": "Security Operations",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Threat Intelligence",
+        "category": "Security Operations",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+      },
+      {
+        "name": "Trusted Security Circles",
+        "category": "Security Operations",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
         "notes": "",
         "url": ""
       },
