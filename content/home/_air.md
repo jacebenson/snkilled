@@ -1,14 +1,14 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+widget = "air"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "ServiceNow Killed"
+title = "Analytics, Intelligence and Reporting"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "cemetery-51550_640.jpg"
+#hero_media = "cemetery-51550_640.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,7 +34,7 @@ hero_media = "cemetery-51550_640.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/jacebenson/snkilled/issues/new?assignees=&labels=&template=add-new-item-to-sn-killed.md&title="
+  url = "https://github.com/jacebenson/snkilled/issues/new?assignees=&labels=&template=add-new-item-to-sn-killed.md&title=Add AIR item - "
   label = "Suggest an addition"
   icon_pack = "fas"
   icon = "person"
@@ -45,17 +45,6 @@ hero_media = "cemetery-51550_640.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
- label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
+ #label = '<a class="nav-link " href="/#contribute" data-target="#contribute"><span>Contribute</span></a>'
 +++
-
-**Showing features in their state of decay**
-
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/jacebenson/snkilled" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-
-## What are these states?
-
-State    | Descriptipn
--------- | -----------
-Current  | It's the current offering and should still be used
-Replaced | It's still available, but you **should** use the newer option
-Dead     | It's been listed as Depreciated

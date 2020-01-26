@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Communities",
+    "created": 2017,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in Orlando.  Scheduling stuff, disabling comments, and improved search.",
+    "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/communities-rn.html"
+  },
+  {
+    "name": "Customer Service Management",
+    "created": 2016,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in Orlando, case types, proactive service operations, service aware install bases",
+    "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/customer-service-management-rn.html"
+  },
+  {
+    "name": "Field Service Management",
+    "created": 2010,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in Orlando, Task rejection reason, default timezone for appointments, and scheduling stuff",
+    "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/customer-service-management/field-service-management-rn.html"
+  }
+]

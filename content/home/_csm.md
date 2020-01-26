@@ -1,11 +1,11 @@
 +++
 # Hero widget.
-widget = "things"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "csm"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "ServiceNow Killed"
+title = "Customer Service Management"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "cemetery-51550_640.jpg"
@@ -34,7 +34,7 @@ title = "ServiceNow Killed"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/jacebenson/snkilled/issues/new?assignees=&labels=&template=add-new-item-to-sn-killed.md&title="
+  url = "https://github.com/jacebenson/snkilled/issues/new?assignees=&labels=&template=add-new-item-to-sn-killed.md&title=Add CSM item - "
   label = "Suggest an addition"
   icon_pack = "fas"
   icon = "person"

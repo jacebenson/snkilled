@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Application Creator",
+    "created": 2015,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Replaced",
+    "notes": "Replaced with Guided Application Creator",
+    "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/concept/c_ApplicationCreationOptions.html"
+  },
+  {
+    "name": "Guided Application Creator",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Studio",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Service Creator",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Team Development",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "System Update Sets",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Automated Test Framework",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ServiceNow Application repository",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ServiceNow Extension for VS Code",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  }
+]

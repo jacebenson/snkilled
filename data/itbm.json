@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Application Portfolio Management",
+    "created": 2016,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Added in Istanbul",
+    "url": ""
+  },
+  {
+    "name": "Project Portfolio Management",
+    "created": 2009,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Added in Winter 2009",
+    "url": "https://web.archive.org/web/20090212232214/http://wiki.service-now.com/index.php?title=Project_Management"
+  },
+  {
+    "name": "Financial Management",
+    "created": 2015,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "",
+    "url": "https://web.archive.org/web/20160926204942/http://wiki.servicenow.com/index.php?title=IT_Finance"
+  },
+  {
+    "name": "Investment Funding Management",
+    "created": 2019,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Added in New York",
+    "url": "https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/business-management/investment-funding-rn.html"
+  },
+  {
+    "name": "Time Card Management",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Enterprise Release Management",
+    "created": 2017,
+    "last_updated": 2017,
+    "depreciated": 2020,
+    "state": "Dead",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Agile Development Management",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Scaled Agile Framework (SAFe)",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Test Management applications",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Business Planning Portal",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Cost Management",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  }
+]

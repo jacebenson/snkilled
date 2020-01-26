@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Service Mapping",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Discovery",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Help the Help Desk",
+    "created": 2004,
+    "last_updated": 2004,
+    "depreciated": 2020,
+    "state": "Dead",
+    "notes": "Use Discovery instead",
+    "url": ""
+  },
+  {
+    "name": "Event Management",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Operational Intelligence",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Cloud Management",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Cloud Optimization: Cloud Insights",
+    "created": "",
+    "last_updated": "",
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  }
+]

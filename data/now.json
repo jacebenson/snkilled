@@ -1,0 +1,469 @@
+[
+    {
+        "name": "Agent Workspace",
+        "created": 2019,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/agent-workspace-rn.html"
+    },
+    {
+        "name": "Advanced Work Assignment",
+        "created": 2019,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/now-platform-capabilities/advanced-work-assignment-rn.html"
+    },
+    {
+        "name": "Configuration Management Database",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Dependency Views",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Compliance",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Data Certification",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Connect",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Content Management System (CMS)",
+        "created": 2009,
+        "last_updated": 2017,
+        "depreciated": 2016,
+        "state": "Dead",
+        "notes": "Replaced with Service Portal",
+        "url": ""
+    },
+    {
+        "name": "Connections and Credentials",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Decision Tables",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "E-signature",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Edge Encryption",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Execution Plans",
+        "created": 2002,
+        "last_updated": 2008,
+        "state": "Replaced",
+        "notes": "Replaced with Workflow, and then again with Flow Designer",
+        "url": "https://docs.servicenow.com/bundle/madrid-it-service-management/page/product/service-catalog-management/concept/c_ExecutionPlans.html"
+    },
+    {
+        "name": "Workflow",
+        "created": 2008,
+        "last_updated": 2017,
+        "depreciated": "",
+        "state": "Replaced",
+        "notes": "Replaced with Flow Designer",
+        "url": ""
+    },
+    {
+        "name": "Flow Designer",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Instance Data Replication",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "IntegrationHub",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Interaction Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Knowledge Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Legacy Chat",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "Dead",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Legacy Notify",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "Dead",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Live Feed",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Managed Documents",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "MetricBase",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "MID Server",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Notifications",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Notify",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Orchestration",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Password Reset",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Remote Tables",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Response Templates",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Delegates",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Assessments",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Approvals",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Geolocation",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "State flows",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Survey Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Quizzes",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Wizards",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Portal",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Portal: Announcements",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Skills Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Subscription Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Survey Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Task Communication Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Homepages",
+        "created": 2004,
+        "last_updated": 2013,
+        "depreciated": "",
+        "state": "Replaced",
+        "notes": "Replaced with Dashboards",
+        "url": ""
+    },
+    {
+        "name": "ListV2",
+        "created": 2010,
+        "last_updated": 2010,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "ListV3",
+        "created": 2016,
+        "last_updated": 2018,
+        "depreciated": 2018,
+        "state": "Dead",
+        "notes": "Not supported, use ListV2 instead.",
+        "url": ""
+    },
+    {
+        "name": "Visual Task Boards",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "UI11",
+        "created": 2011,
+        "last_updated": 2015,
+        "depreciated": 2015,
+        "state": "Dead",
+        "notes": "Not supported, use UI16 instead.",
+        "url": ""
+    },
+    {
+        "name": "UI15",
+        "created": 2015,
+        "last_updated": 2016,
+        "depreciated": 2016,
+        "state": "Dead",
+        "notes": "Not supported, use UI16 instead.",
+        "url": ""
+    },
+    {
+        "name": "UI16",
+        "created": 2016,
+        "last_updated": 2016,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "",
+        "url": ""
+    }
+]

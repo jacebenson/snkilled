@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Performance Analytics",
+        
+        "created": 2013,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/par-performance-analytics-rn.html"
+      },
+      {
+        "name": "Reporting",
+        
+        "created": 2002,
+        "last_updated": 2019,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, this isn't really an update.",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/par-reporting-rn.html"
+      },
+      {
+        "name": "Dashboards",
+        
+        "created": 2013,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "",
+        "url": "https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/performance-analytics-reporting/par-dashboards-rn.html"
+      },
+      {
+        "name": "Spotlight",
+        
+        "created": 2016,
+        "last_updated": 2016,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "",
+        "url": "https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/performance-analytics-reporting/performance-analytics-rn.html"
+      },
+      {
+        "name": "Natural Language Understanding",
+        
+        "created": 2019,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/natural-language-understanding-rn.html"
+      },
+      {
+        "name": "Predictive Intelligence",
+        
+        "created": 2019,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Was called Agent Intelligence",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/predictive-intelligence-rn.html"
+      },
+      {
+        "name": "Virtual Agent",
+        
+        "created": 2019,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/analytics-intelligence-reporting/virtual-agent-rn.html"
+      }
+]

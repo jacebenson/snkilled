@@ -1,0 +1,38 @@
+[
+  {
+    "name": "gs.sql()",
+    "created": 2002,
+    "last_updated": 2015,
+    "depreciated": 2015,
+    "state": "Dead",
+    "notes": "Access to this was removed.",
+    "url": "https://www.servicenowelite.com/blog/2014/2/1/glidesystem-sql"
+  },
+  {
+    "name": "Processors",
+    "created": 2004,
+    "last_updated": 2018,
+    "depreciated": "",
+    "state": "Replaced",
+    "notes": "Replaced with Scripted REST APIs",
+    "url": "https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html"
+  },
+  {
+    "name": "JSON Processor",
+    "created": 2004,
+    "last_updated": 2013,
+    "depreciated": 2013,
+    "state": "Dead",
+    "notes": "Replaced with JSONv2 Processor",
+    "url": ""
+  },
+  {
+    "name": "JSONv2 Processor",
+    "created": 2013,
+    "last_updated": 2015,
+    "depreciated": "",
+    "state": "Replaced",
+    "notes": "Replaced with Table API",
+    "url": ""
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Orchestration - Node Based Licensing",
+    "created": 2010,
+    "last_updated": 2018,
+    "depreciated": 2018,
+    "state": "Dead",
+    "notes": "Replaced with Transactional Based Licensing see IntegrationHub items",
+    "url": ""
+  },
+  {
+    "name": "IT Service Management v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IT Service Management Professional v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Customer Service Management Standard v3",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Customer Service Management Professional v3",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Customer Service Management Additional Portal Visits",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IT Business Management Professional",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IT Business Management Standard",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Application Portfolio Management",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "HR Service Delivery Standard v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "HR Service Delivery Professional v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "HR Service Delivery Enterprise v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "HR Enterprise Onboarding v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Employee Document Management v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Employee Service Center",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Field Service Management",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Now Platform App Engine Starter",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Now Platform App Engine Starter +",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Now Platform App Engine Standard",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Now Platform App Engine Professional",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Business Stakeholder",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Time Card User v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Software Asset Management v3",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IntegrationHub Starter",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IntegrationHub Standard",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IntegrationHub Professional",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IntegrationHub Enterprise",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Password Reset Limited",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IRM Standard",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IRM Professional",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "IRM Enterprise",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Vendor Risk Management",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Security Operations VR Standard v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Security Operations SIR Standard v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Security Operations Professional v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Security Operations Enterprise v2",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Edge Encryption",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Performance Analytics",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Full Disk Encryption",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Database Encryption",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Dedicated Environment",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Additional Application Penetration Test",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "Instance Data Replication",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Visibility a la cart",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Health a la cart",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Optimization a la cart",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Operator Standard",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Operator Professional",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  },
+  {
+    "name": "ITOM Operator Enterprise",
+    "created": "",
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "",
+    "notes": "",
+    "url": ""
+  }
+]

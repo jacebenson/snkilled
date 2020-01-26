@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Audit Management",
+    "created": 2017,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in November of 2019",
+    "url": "https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/governance-risk-compliance/store-grc-rn-audit-mgmt.html"
+  },
+  {
+    "name": "Advanced Risk",
+    "created": 2019,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in November of 2019",
+    "url": "https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/governance-risk-compliance/store-grc-rn-advanced-risk.html"
+  },
+  {
+    "name": "Compliance UCF",
+    "created": 2017,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in November of 2019",
+    "url": "https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/governance-risk-compliance/store-grc-rn-compliance-ucf.html"
+  },
+  {
+    "name": "GDPR DPIA Use Case Accelerator",
+    "created": 2019,
+    "last_updated": 2020,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in January of 2020",
+    "url": "https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/governance-risk-compliance/store-grc-rn-gdpr-dpia.html"
+  },
+  {
+    "name": "GRC mobile experience",
+    "created": 2019,
+    "last_updated": 2019,
+    "depreciated": "",
+    "state": "Current",
+    "notes": "Last updated in 2019",
+    "url": "https://docs.servicenow.com/bundle/newyork-governance-risk-compliance/page/product/grc-common/concept/mobile-grc-ovrvw.html"
+  }
+]

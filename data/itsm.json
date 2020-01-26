@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Asset Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Contract Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Procurement",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Product Catalog",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Benchmarks",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Change Management",
+        "created": 2002,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, updates around Change approval policy, and conflict properties",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/change-management-rn.html"
+    },
+    {
+        "name": "Coaching",
+        "created": 2002,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, was only renamed in this release to 'Trainings'",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/coaching-rn.html"
+    },
+    {
+        "name": "Continual Improvement Management",
+        "created": 2018,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, integrated with 'Incident Workspace' and 'Problems Workspace'",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/continual-improvement-management-rn.html"
+    },
+    {
+        "name": "Expense Line",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "ITSM Virtual Agent",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Walk-up Experience",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "ITSM Agent Workspace",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Incident Communications Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Incident Management",
+        "created": 2002,
+        "last_updated": 2020,
+        "depreciated": "",
+        "state": "Current",
+        "notes": "Last updated in Orlando, updates around Agent Affinity",
+        "url": "https://docs.servicenow.com/bundle/orlando-release-notes/page/release-notes/it-service-management/incident-management-rn.html"
+    },
+    {
+        "name": "On-call scheduling",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Problem Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Release Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Request Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Catalog",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Desk",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Portfolio Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Service Level Management",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Task Outage",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Vendor Manager Workspace",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "Vendor Performance",
+        "created": "",
+        "last_updated": "",
+        "depreciated": "",
+        "state": "",
+        "notes": "",
+        "url": ""
+    },
+    {
+        "name": "IT Software Asset Management",
+        "created": 2007,
+        "last_updated": 2018,
+        "depreciated": 2018,
+        "state": "Dead",
+        "notes": "Replaced with Software Asset Management",
+        "url": ""
+    }
+]
